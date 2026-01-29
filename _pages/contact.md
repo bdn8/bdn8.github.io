@@ -8,13 +8,13 @@ permalink: /personal/
 
 
 
-Name : "Bowen Dong"  
+Name: Bowen Dong 
 
-Email : "bdn8@vt.edu" 
+Email: bdn8@vt.edu
 
-Phone : "+1 434-833-3159"  
+Phone: +1 434-833-3159  
 
-Affiliation : Virginia Tech  
+Affiliation: Virginia Tech  
 
 
 
